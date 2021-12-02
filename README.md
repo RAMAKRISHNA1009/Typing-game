@@ -12,4 +12,4 @@ Clocking game by writing random words
   
 # Created Using HTML CSS JS
 
-You Can Find live project for this at [https://youthful-hawking-39ceb8.netlify.app/]()
+You Can Find live project for this at [https://youthful-hawking-39ceb8.netlify.app/](https://youthful-hawking-39ceb8.netlify.app/)
